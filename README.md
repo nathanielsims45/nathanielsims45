@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Nathaniel%20Sims&fontSize=42&fontColor=fff&animation=twinkling" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Cloud+%26+AI+Architecture;Full+Stack+Engineering;Ruby+%2B+Rails;Building+things+that+last)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Cloud+%26+AI+Architecture;Microsoft+%26+Azure+Stack;Full+Stack+Engineering;Ruby+%2B+Rails;Building+things+that+last)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,7 @@
 class Builder
   def initialize
     @focus = ["cloud systems", "AI agents", "full stack apps", "automation"]
-    @stack  = ["Ruby", "C#", "Python", "React", "Azure"]
+    @stack  = ["Ruby", "C#", ".NET", "Azure", "Python", "React"]
   end
 
   def build
@@ -29,11 +29,12 @@ end
 
 ```txt
 🏗️  Architect cloud platforms on Azure & AWS
+☁️  Microsoft stack — .NET, ASP.NET Core, Azure Functions, AKS, Azure SQL
 🤖  Build AI agents, RAG pipelines & document automation
 💎  Ship Ruby & Rails APIs, services & background jobs
 ⚡  Full stack apps — React, Next.js, ASP.NET Core, Node.js
-🔄  CI/CD, containers, infra as code — Docker, K8s, Terraform
-📊  Data layers — PostgreSQL, SQL Server, Cosmos DB, Power BI
+🔄  CI/CD, containers, infra as code — Azure DevOps, Docker, K8s, Terraform
+📊  Data layers — SQL Server, PostgreSQL, Cosmos DB, Power BI
 ```
 
 ---
@@ -52,14 +53,22 @@ end
 ### Frameworks
 ![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Cloud & AI
+### Microsoft Stack
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### Cloud & AI
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### Data & DevOps
