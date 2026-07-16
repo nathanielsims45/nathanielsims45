@@ -30,7 +30,7 @@ end
 ```txt
 🏗️  Architect cloud platforms on Azure & AWS
 ☁️  Microsoft stack — .NET, ASP.NET Core, VB, VM, Azure Functions, AKS, Azure SQL
-🤖  Build AI agents, RAG pipelines & document automation
+🤖  Build AI agents, LLM, RAG pipelines & document automation
 💎  Ship Ruby & Rails APIs, services & background jobs
 ⚡  Full stack apps — React, Next.js, ASP.NET Core, Node.js
 🔄  CI/CD, containers, infra as code — Azure DevOps, Docker, K8s, Terraform
