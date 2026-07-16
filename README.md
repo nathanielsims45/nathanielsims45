@@ -8,7 +8,7 @@
 
 ---
 
-```ruby
+```ruby 
 class Builder
   def initialize
     @focus = ["cloud systems", "AI agents", "full stack apps", "automation"]
