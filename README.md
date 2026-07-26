@@ -98,31 +98,3 @@ end
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
 
 </div>
-
-<!-- achievement: yolo -->
-
-<!-- achievement: pull-shark -->
-
-<!-- achievement: pull-shark-1 -->
-
-<!-- achievement: pull-shark-2 -->
-
-<!-- achievement: pull-shark-3 -->
-
-<!-- achievement: pull-shark-4 -->
-
-<!-- achievement: pull-shark-5 -->
-
-<!-- achievement: pull-shark-6 -->
-
-<!-- achievement: pull-shark-7 -->
-
-<!-- achievement: pull-shark-8 -->
-
-<!-- achievement: pull-shark-9 -->
-
-<!-- achievement: pull-shark-10 -->
-
-<!-- achievement: pull-shark-11 -->
-
-<!-- achievement: pull-shark-12 -->
