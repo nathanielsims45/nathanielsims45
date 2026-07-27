@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=180&section=header&text=Nathaniel%20Sims&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=42" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1000&color=8A63F0&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Angular+%2B+.NET+Architect;Cloud+%26+AI+Systems+Builder;Shipping+Production-Grade+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1000&color=8A63F0&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Angular+%2B+.NET+Architect;Cloud+%26+AI+Systems+Builder" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nathanielsims45&color=8A63F0&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/nathanielsims45?style=for-the-badge&color=764ba2&logo=github&labelColor=0d1117)
