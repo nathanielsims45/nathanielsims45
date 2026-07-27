@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Nathaniel%20Sims&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Senior%20Full%20Stack%20Engineer%20%7C%20Cloud%20%26%20AI%20Architect&descAlignY=58&descSize=18" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1000&color=8A63F0&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Angular+%2B+.NET+Architect;Cloud+%26+AI+Systems+Builder;Senior+Full+Stack+Engineer;Shipping+Production-Grade+Software" alt="Typing SVG" />
 
 <br/>
