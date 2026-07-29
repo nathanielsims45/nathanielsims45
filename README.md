@@ -29,6 +29,7 @@ engineer:
     - AI agents, LLM & RAG pipelines
     - Cloud-native platform engineering
     - CI/CD & infrastructure as code
+    - Power Platform — Power Apps & Power Automate on SharePoint
   philosophy: >
     Solve real problems.
     Ship in small, verifiable steps.
@@ -62,6 +63,7 @@ engineer:
 - AKS, Azure Functions, Terraform
 - Ruby / Rails APIs & background jobs
 - Data platforms — Power BI, PostgreSQL
+- Power Apps canvas apps + Power Automate flows on SharePoint Lists
 
 </td>
 </tr>
@@ -105,6 +107,9 @@ engineer:
 ![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
