@@ -21,15 +21,15 @@
 engineer:
   name: Nathaniel Sims
   role: Senior Full Stack Engineer
-  primary_stack: [Angular, .NET, C#, ASP.NET Core]
+  primary_stack: [Angular, .NET, C#, ASP.NET Core, Power Apps, Power Automate]
   secondary_stack: [Ruby, Rails, Python, TypeScript]
   cloud: [Azure, AWS]
   specialties:
+    - Power Platform — Power Apps canvas apps & Power Automate on SharePoint
     - Enterprise Angular + .NET architecture
     - AI agents, LLM & RAG pipelines
     - Cloud-native platform engineering
     - CI/CD & infrastructure as code
-    - Power Platform — Power Apps & Power Automate on SharePoint
   philosophy: >
     Solve real problems.
     Ship in small, verifiable steps.
@@ -47,7 +47,17 @@ engineer:
 <tr>
 <td width="50%" valign="top">
 
-### 🅰️ Angular + .NET (Primary)
+### 🔷 Power Platform (Primary)
+- Power Apps canvas apps — tablet & mobile layouts
+- Power Automate flows — multi-step approvals, routing
+- SharePoint Lists as the data backend
+- Power BI dashboards wired to live app data
+- Handoff docs for non-technical teams
+
+</td>
+<td width="50%" valign="top">
+
+### 🅰️ Angular + .NET
 - Enterprise Angular SPAs — RxJS, NgRx, Signals
 - ASP.NET Core Web APIs & microservices
 - Clean Architecture / DDD on .NET
@@ -55,6 +65,8 @@ engineer:
 - SQL Server, EF Core, Cosmos DB
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🤖 Cloud & AI Systems
@@ -63,8 +75,16 @@ engineer:
 - AKS, Azure Functions, Terraform
 - Ruby / Rails APIs & background jobs
 - Data platforms — Power BI, PostgreSQL
-- Power Apps canvas apps + Power Automate flows on SharePoint Lists
 
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ DevOps & Delivery
+- CI/CD pipelines — Azure DevOps, GitHub Actions
+- Infrastructure as code — Terraform, Docker
+- Enterprise modernization & migrations
+- Business process automation
+- Clear docs and handoff for maintaining teams
 </td>
 </tr>
 </table>
