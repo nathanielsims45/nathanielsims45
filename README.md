@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1000&color=8A63F0&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Angular+%2B+.NET+Architect;Cloud+%26+AI+Systems+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1000&color=8A63F0&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Senior+Frontend+Developer+%E2%80%94+UX%2FUI;React+%2F+Next.js+%2F+Tailwind+%2B+CMS" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nathanielsims45&color=8A63F0&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/nathanielsims45?style=for-the-badge&color=764ba2&logo=github&labelColor=0d1117)
@@ -20,16 +20,17 @@
 ```yaml
 engineer:
   name: Nathaniel Sims
-  role: Senior Full Stack Engineer
-  primary_stack: [Angular, .NET, C#, ASP.NET Core, Power Apps, Power Automate]
-  secondary_stack: [Ruby, Rails, Python, TypeScript]
-  cloud: [Azure, AWS]
+  role: Senior Frontend Developer — UX / UI
+  primary_stack: [React, Next.js, TypeScript, Tailwind CSS, Sanity CMS]
+  design_to_code: [Figma, Claude Code, v0, Midjourney, Recraft, Framer Motion, GSAP]
+  extra_stack: [Angular, .NET, C#, ASP.NET Core, Power Apps, Power Automate]
+  cloud_deploy: [Vercel, Netlify, Cloudflare, Supabase, PostgreSQL]
   specialties:
-    - Power Platform — Power Apps canvas apps & Power Automate on SharePoint
-    - Enterprise Angular + .NET architecture
-    - AI agents, LLM & RAG pipelines
-    - Cloud-native platform engineering
-    - CI/CD & infrastructure as code
+    - UX/UI-first React + Next.js + Tailwind builds
+    - CMS-driven business sites — Sanity schema design & wiring
+    - A/B testing, QA, and motion (Framer Motion, GSAP, light Three.js/WebGL)
+    - API, CRM & CMS integration — HubSpot, Salesforce, GoHighLevel
+    - Angular + .NET enterprise work (secondary, on request)
   philosophy: >
     Solve real problems.
     Ship in small, verifiable steps.
@@ -47,44 +48,42 @@ engineer:
 <tr>
 <td width="50%" valign="top">
 
-### 🔷 Power Platform (Primary)
-- Power Apps canvas apps — tablet & mobile layouts
-- Power Automate flows — multi-step approvals, routing
-- SharePoint Lists as the data backend
-- Power BI dashboards wired to live app data
-- Handoff docs for non-technical teams
+### 🎨 Frontend & UX/UI (Primary)
+- React & Next.js production builds — App Router, typed components
+- Tailwind design systems — tokens, spacing, theming
+- Figma-to-code, plus AI design tools (v0, Midjourney, Recraft, Claude)
+- Motion: Framer Motion, GSAP, light Three.js / WebGL
+- A/B testing and QA passes before rollout
 
 </td>
 <td width="50%" valign="top">
 
-### 🅰️ Angular + .NET
-- Enterprise Angular SPAs — RxJS, NgRx, Signals
-- ASP.NET Core Web APIs & microservices
-- Clean Architecture / DDD on .NET
-- Azure-native deployment pipelines
-- SQL Server, EF Core, Cosmos DB
+### 🧩 CMS & Integration
+- Sanity CMS — schema design & content modeling
+- API integration — REST / GraphQL wiring
+- CRM & automation — HubSpot, Salesforce, GoHighLevel
+- Supabase / PostgreSQL for auth, data, and storage
+- Deployment on Vercel, Netlify, and Cloudflare
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Cloud & AI Systems
-- LLM agents, RAG pipelines, LangChain
-- Azure OpenAI & document automation
-- AKS, Azure Functions, Terraform
-- Ruby / Rails APIs & background jobs
-- Data platforms — Power BI, PostgreSQL
+### 🔷 Power Platform
+- Power Apps canvas apps — tablet & mobile layouts
+- Power Automate flows — multi-step approvals, routing
+- SharePoint Lists as the data backend
+- Power BI dashboards wired to live app data
 
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ DevOps & Delivery
-- CI/CD pipelines — Azure DevOps, GitHub Actions
-- Infrastructure as code — Terraform, Docker
-- Enterprise modernization & migrations
-- Business process automation
-- Clear docs and handoff for maintaining teams
+### 🅰️ Angular + .NET (Extra)
+- Enterprise Angular SPAs — RxJS, NgRx, Signals
+- ASP.NET Core Web APIs & microservices
+- Clean Architecture / DDD on .NET
+- Available for enterprise engagements on request
 </td>
 </tr>
 </table>
@@ -99,55 +98,65 @@ engineer:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 💠 &nbsp;Primary Stack — Angular + .NET
+## 💠 &nbsp;Primary Stack — Frontend & UX/UI
 
 <div align="center">
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
-## ☁️ &nbsp;Cloud, Data & DevOps
+## ☁️ &nbsp;Deploy, CMS & Integration
 
 <div align="center">
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/Azure_Functions-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
-![AKS](https://img.shields.io/badge/AKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
-## 🧪 &nbsp;Secondary Stack — AI, Ruby & Web
+## 🎨 &nbsp;AI Design-to-Code Workflow
 
 <div align="center">
 
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![v0](https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
+
+</div>
+
+## 🧪 &nbsp;Extra Stack — Angular, .NET & Cloud
+
+<div align="center">
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
 </div>
 
